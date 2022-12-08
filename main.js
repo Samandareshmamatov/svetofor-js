@@ -16,7 +16,6 @@ setInterval(() => {
         redCircle.style.backgroundColor = "#585858"
         greenCircle.style.backgroundColor = "#00ff00"
         yellowCircle.style.backgroundColor = "#585858"
-        count = 1;
     }
     count++;
 }, 1000)
